@@ -12,7 +12,7 @@ $destacados = array_slice($repositorio->obtenerTodos(), 0, 3);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página Ellen Joe - Inicio</title>
+    <title>Página Huma Musume - Inicio</title>
     <link rel="stylesheet" href="assets/css/estilos.css">
 </head>
 <body>

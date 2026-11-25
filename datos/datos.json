@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "nombre": "Ellen Joe Colegiana",
+        "nombre": "Agnes Tachion",
         "categoria": "Figuras",
-        "precio": 899.00,
-        "descripcion": "Figura de Ellen Joe de la marca Apex con el traje de colegiana",
-        "stock": 25,
-        "imagen": "ellen-colegiana.jpg"
+        "precio": 500.00,
+        "descripcion": "Figura de Agnes Tachion",
+        "stock": 65,
+        "imagen": "agnes.jpg"
     },
     {
         "id": 2,
-        "nombre": "Ellen Joe Maid",
+        "nombre": "Manjatan cafe",
         "categoria": "Figuras",
-        "precio": 1599.00,
-        "descripcion": "Figura de Ellen Joe de la marca Apex con el traje de Maid",
-        "stock": 12,
-        "imagen": "ellen-maid.jpg"
+        "precio": 650.00,
+        "descripcion": "Figura de Manjatan cafe",
+        "stock": 0,
+        "imagen": "manjatan-cafe.jpg"
     },
     {
         "id": 3,
-        "nombre": "Ellen Joe Bikini",
+        "nombre": "Gold Ship",
         "categoria": "Figuras",
-        "precio": 1299.00,
-        "descripcion": "Figura de Ellen Joe de la marca Apex con el traje de Bikini",
-        "stock": 0,
-        "imagen": "ellen-bikini.jpg"
+        "precio": 700.00,
+        "descripcion": "Figura de Gold Ship",
+        "stock": 85,
+        "imagen": "gold-ship.jpg"
     },
     {
         "id": 4,
-        "nombre": "Ellen Joe Kimono",
+        "nombre": "Funda de celular",
         "categoria": "Accesorios",
-        "precio": 1399.00,
-        "descripcion": "Figura de Ellen Joe de la marca Apex con el traje de Kimono",
-        "stock": 10,
-        "imagen": "ellen-kimono.jpg"
+        "precio": 86.00,
+        "descripcion": "Funda de celular",
+        "stock": 0,
+        "imagen": "funda-celular.jpg"
     },
     {
         "id": 5,
-        "nombre": "Ellen Joe Casual",
+        "nombre": "Reloj agnes tachion",
         "categoria": "Accesorios",
         "precio": 1099.00,
-        "descripcion": "Figura de Ellen Joe de la marca Apex con el traje Casual",
-        "stock": 15,
-        "imagen": "ellen-casual.jpg"
+        "descripcion": "Reloj de Agnes Tachion",
+        "stock": 7  ,
+        "imagen": "agnes-reloj.jpg"
     },
     {
         "id": 6,
-        "nombre": "Ellen Joe Vestido de Gala",
+        "nombre": "Perfume agnes tachion",
         "categoria": "Accesorios",
-        "precio": 1799.00,
-        "descripcion": "Figura de Ellen Joe de la marca Apex con el traje de Vestido de Gala",
-        "stock": 8,
-        "imagen": "ellen-gala.jpg"
+        "precio": 400.00,
+        "descripcion": "Perfume de Agnes Tachion",
+        "stock": 89,
+        "imagen": "agnes-perfume.jpg"
     }
 ]

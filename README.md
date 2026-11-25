@@ -4,14 +4,14 @@ Catálogo de {{qué catalogas}} con {{qué transacción}}. Proyecto de la asigna
 
 ## Vista previa
 
-https://OmarRm26/proyecto_tiendatec
+https://Wasser5259/Agus_Tienda
 
 ## Dominio y entidades
 
 | Entidad del curso | Equivalente en mi proyecto |
 |---|---|
-| Categoria | {{Wiki_Ellen}} |
-| Producto | {{Figuras}} |
+| Categoria | {{Huma_Musume}} |
+| Producto | {{Caballos}} |
 | Cliente / Usuario | {{Fans}} |
 | Pedido + DetallePedido | {{1_paypal}} |
 

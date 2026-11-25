@@ -32,9 +32,8 @@
                     <label for="productoSeleccionado">Producto a solicitar:</label>
                     <select id="productoSeleccionado" name="productoSeleccionado" required>
                         <option value="">-- Selecciona un producto --</option>
-                        <option value="1">Ellen Joe Colegiana</option>
-                        <option value="2">Ellen Joe Maid</option>
-                        <option value="3">Ellen Joe Bikini</option>
+                        <option value="1">Reloj de Agnes Tachion</option>
+                        <option value="2">Perfume de Agnes Tachion</option>
                     </select>
                 </div>
 

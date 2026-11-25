@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Detalle de Producto - Ellen Joe Bikini</title>
+    <title>Detalle de Producto - Reloj de Agnes Tachion</title>
 </head>
 <body>
     <header>
@@ -11,25 +11,25 @@
             <ol>
                 <li><a href="index.html">Inicio</a></li>
                 <li><a href="01-estructura.html">Catálogo</a></li>
-                <li aria-current="page">Ellen Joe Bikini</li>
+                <li aria-current="page">Reloj de Agnes Tachion</li>
             </ol>
         </nav>
     </header>
 
     <main id="ficha-producto-principal">
         <article>
-            <h2>Ellen Joe Bikini</h2>
+            <h2>Reloj de Agnes Tachion</h2>
 
             <!-- Imagen envuelta en figure con figcaption -->
             <figure>
-                <img src="https://placehold.co/400x300" alt="Figura coleccionable de Ellen Joe vistiendo traje de baño de dos piezas en tono oscuro">
-                <figcaption>Vista frontal de la figura a escala de Ellen Joe (Edición Bikini).</figcaption>
+                <img src="https://placehold.co/400x300" alt="Reloj de diseño elegante, ideal para ocasiones especiales">
+                <figcaption>Vista frontal del reloj.</figcaption>
             </figure>
 
             <!-- Bloques de información secundaria con clases reutilizables -->
-            <p class="info-secundaria info-precio">Precio: <strong>$1,299.00</strong></p>
-            <p class="info-secundaria info-disponibilidad">Estado: Agotado</p>
-            <p class="info-secundaria info-descripcion">Figura detallada de la marca Apex inspirada en el personaje de Zenless Zone Zero.</p>
+            <p class="info-secundaria info-precio">Precio: <strong>$400.00</strong></p>
+            <p class="info-secundaria info-disponibilidad">Estado: Disponible</p>
+            <p class="info-secundaria info-descripcion">Reloj de diseño elegante, ideal para ocasiones especiales.</p>
 
             <!-- Enlace externo -->
             <p>

@@ -15,21 +15,21 @@
             <h2>Listado en Formato de Lista</h2>
             <ul>
                 <li>
-                    <h3>Ellen Joe Colegiana</h3>
+                    <h3>Reloj de Agnes Tachion</h3>
                     <dl>
                         <dt>Precio:</dt>
-                        <dd>$899.00</dd>
+                        <dd>$400.00</dd>
                         <dt>Categoría:</dt>
-                        <dd>Figuras</dd>
+                        <dd>Accesorios</dd>
                     </dl>
                 </li>
                 <li>
-                    <h3>Ellen Joe Maid</h3>
+                    <h3>Perfume de Agnes Tachion</h3>
                     <dl>
                         <dt>Precio:</dt>
-                        <dd>$1,599.00</dd>
+                        <dd>$400.00</dd>
                         <dt>Categoría:</dt>
-                        <dd>Figuras</dd>
+                        <dd>Accesorios</dd>
                     </dl>
                 </li>
             </ul>
@@ -51,15 +51,15 @@
                 <tbody>
                     <tr>
                         <td>1</td>
-                        <td>Ellen Joe Colegiana</td>
-                        <td>Figuras</td>
-                        <td>$899.00</td>
+                        <td>Reloj de Agnes Tachion</td>
+                        <td>Accesorios</td>
+                        <td>$400.00</td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Ellen Joe Maid</td>
-                        <td>Figuras</td>
-                        <td>$1,599.00</td>
+                        <td>Perfume de Agnes Tachion</td>
+                        <td>Accesorios</td>
+                        <td>$400.00</td>
                     </tr>
                 </tbody>
             </table>

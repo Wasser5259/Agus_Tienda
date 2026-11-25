@@ -3,14 +3,14 @@
    ========================================== */
 :root {
   /* Marca: 3 Colores principales */
-  --color-primario: #d51717;
-  --color-acento: #951616;
+  --color-primario: #1ee300;
+  --color-acento: #0f6303;
   --color-secundario: #0a0a0a;
   
   /* Sistema UI y estado */
   --color-texto: #161a1e;
   --color-fondo: #f5f7fa;
-  --color-error: #b3261e;
+  --color-error: #0000ff;
 
   /* Marca: Tipografía */
   --fuente-base: "Segoe UI", Arial, sans-serif;

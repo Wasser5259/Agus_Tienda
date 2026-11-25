@@ -12,7 +12,7 @@
             <ol>
                 <li><a href="index.html">Inicio</a></li>
                 <li><a href="01-estructura.html">Catálogo</a></li>
-                <li aria-current="page">Ellen Joe Bikini</li>
+                <li aria-current="page">Reloj de Agnes Tachion</li>
             </ol>
         </nav>
     </header>
@@ -20,7 +20,7 @@
     <!-- Ronda 1 & 4: Main con id único y clases reutilizables -->
     <main id="ficha-reto-final">
         <article class="tarjeta-producto-detalle">
-            <h2>Ellen Joe Bikini</h2>
+            <h2>Reloj de Agnes Tachion</h2>
 
             <!-- Ronda 4: Imagen en figure/figcaption y Enlace -->
             <figure>
@@ -35,11 +35,11 @@
                 <h3>Especificaciones del Producto</h3>
                 <dl>
                     <dt>Precio:</dt>
-                    <dd class="info-secundaria">$1,299.00</dd>
+                    <dd class="info-secundaria">$400.00</dd>
                     <dt>Categoría:</dt>
-                    <dd class="info-secundaria">Figuras</dd>
+                    <dd class="info-secundaria">Relojes</dd>
                     <dt>Disponibilidad:</dt>
-                    <dd class="info-secundaria">Agotado</dd>
+                    <dd class="info-secundaria">Disponible</dd>
                 </dl>
             </section>
 
