@@ -50,4 +50,4 @@ Usar propiedades privadas con métodos (encapsulamiento) asegura que los datos s
 
 En tu datos.json, el nombre de la categoría se repite como texto en cada ítem. ¿Qué problemas puede causar esa repetición cuando haya cientos de ítems?
 
-Genera duplicidad de datos e ineficiencia de espacio. Si se decide cambiar o corregir el nombre de una categoría, habría que modificar cientos de registros individualmente, aumentando el riesgo de errores tipográficos e inconsistencias de filtrado.
+Genera duplicidad de datos e ineficiencia de espacio. Si se decide cambiar o corregir el nombre de una categoría, habría que modificar cientos de registros individualmente, aumentando el riesgo de errores tipográficos e inconsistencias de filtrado.git remote set-url origin https://github.com/Wasser5259/Agus_Tienda.git
