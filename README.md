@@ -1,19 +1,19 @@
-# proyecto-DOMINIO
+# Agus Tienda - Catálogo Huma Musume
 
-Catálogo de {{qué catalogas}} con {{qué transacción}}. Proyecto de la asignatura Aplicaciones Web (E-APW-2), grupo 401.
+Catálogo de caballos y mercancía de Huma Musume con pagos mediante PayPal. Proyecto de la asignatura Aplicaciones Web (E-APW-2), grupo 401.
 
 ## Vista previa
 
-https://Wasser5259/Agus_Tienda
+https://github.com/Wasser5259/Agus_Tienda
 
 ## Dominio y entidades
 
 | Entidad del curso | Equivalente en mi proyecto |
 |---|---|
-| Categoria | {{Huma_Musume}} |
-| Producto | {{Caballos}} |
-| Cliente / Usuario | {{Fans}} |
-| Pedido + DetallePedido | {{1_paypal}} |
+| Categoria | Huma_Musume |
+| Producto | Caballos |
+| Cliente / Usuario | Fans |
+| Pedido + DetallePedido | 1_paypal |
 
 ## Estructura
 
@@ -29,9 +29,9 @@ Unidad II (front end) completa. Siguiente: Unidad III (back end en PHP).
 
 ## Bitácora U2S06
 
-1. {{respuesta a la pregunta 1}}
-2. {{respuesta a la pregunta 2}}
-3. {{respuesta a la pregunta 3}}
+1. respuesta a la pregunta 1
+2. respuesta a la pregunta 2
+3. respuesta a la pregunta 3
 
 ## Cómo ejecutarlo
 
